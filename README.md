@@ -1,4 +1,3 @@
 ## Next + Firebase Blog app 🔥
 
-live link : https://nextjs-project-khaki.vercel.app/
-
+This is Bloggin Web site built with NextJS + Firebase.
